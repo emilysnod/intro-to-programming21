@@ -1,8 +1,6 @@
 # Emily Snodgrass
 # What is the probability that in a classroom of x people, at least 2 will be born on the same day of the year (ignore leap year)?
-# I have given you the skeleton and some of the code... you complete it using a frequency table!
-# Note:  In a classroom of only 23 people, the probability is about 50.7%  !
-# Try first with 10000 trials and then try with 100000 trials.  This code runs somewhat slowly in repl.it
+# In a classroom of only 23 people, the probability is about 50.7%  !
 
 import math
 import random
